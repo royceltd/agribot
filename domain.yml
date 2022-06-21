@@ -152,15 +152,15 @@ responses:
   utter_ask_crop:
   - text: please type your crop name
   utter_ask_nitrogen:
-  - text: please enter nitrogen value
+  - text: please enter nitrogen value e.g N_20
   utter_ask_phos:
-  - text: enter phosphorous value
+  - text: enter phosphorous value e.g P_20
   utter_ask_potas:
-  - text: enter potassium value
+  - text: enter potassium value e.g K_20
   utter_ask_ph:
-  - text: please enter ph value
+  - text: please enter ph value e.g ph_5.65
   utter_ask_rainfall:
-  - text: amount of rainfall in your region
+  - text: amount of rainfall in your region e.g rf_263.72
   utter_ask_city:
   - text: please enter city name
   utter_ask_crop1:
