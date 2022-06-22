@@ -98,8 +98,8 @@ slots:
 responses:
   utter_greet:
   - buttons:
-    - payload: /about_us
-      title: About us
+    # - payload: /about_us
+    #   title: About us
     - payload: /agribot
       title: chat with AGRIBOT
     text: Welcome to AGRIGROW!, All your farming needs at one place.
@@ -135,8 +135,8 @@ responses:
     text: Here's the link our website.
   utter_agribot:
   - buttons:
-    - payload: /statistics
-      title: crop statistics
+    # - payload: /statistics
+    #   title: crop statistics
     - payload: /ferti_recommendation
       title: fertilizer recommendation
     - payload: /recommend
